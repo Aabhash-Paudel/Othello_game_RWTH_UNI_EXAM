@@ -266,7 +266,8 @@ void spielenMitFreund() {
             }
             continue;
         }
-
+        //w
+        
         if (!menschlicherZug(spielfeld, aktuellerSpieler)) {
             cng_player();
             aktuellerSpieler = spielerTyp[aktuellerSpieler - 1];

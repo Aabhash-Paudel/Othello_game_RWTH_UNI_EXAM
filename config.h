@@ -6,6 +6,7 @@
  * Beinhaltet globale Konfiguration.
  */
 
+
 #ifndef CONFIG_H_
 #define CONFIG_H_
 
